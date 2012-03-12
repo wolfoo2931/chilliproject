@@ -26,6 +26,4 @@
 *.rbc
 doc/app
 /.bundle
-/Gemfile.lock
-/Gemfile.local
 /.rvmrc*
